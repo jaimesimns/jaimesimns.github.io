@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Hi! I'm Jaime Simons.
+title: Hi! I'm Jaime.
 cover: true
 permalink: /
 ---
@@ -16,4 +16,6 @@ permalink: /
 }
 </style>
 
-I'm a M.A. Candidate in Public History and Digital Humanities at Carleton University. This is my personal website - click on the links to learn more about my resume, my projects, or to get in touch. 
+I'm a M.A. Candidate in Public History and Digital Humanities at Carleton University. My current research focuses on steamboats on the Ottawa River, from 1830-1920, and their role in the industrialization of the Ottawa River and surrounding area. I am currently looking for a Summer internship, so if you like my work, please [get in touch](/contactme).
+
+This is my personal website - click on the links to learn more about my resume, my projects, or to get in touch. 
