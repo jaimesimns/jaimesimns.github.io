@@ -2,9 +2,9 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square70x70logo src="/assets/icons/mstile-70x70.png"/>
-            <square150x150logo src="/assets/icons/mstile-150x150.png"/>
-            <square310x310logo src="/assets/icons/mstile-310x310.png"/>
+            <square70x70logo src="https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg"/>
+            <square150x150logo src="https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg"/>
+            <square310x310logo src="https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
