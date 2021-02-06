@@ -1,6 +1,5 @@
 ---
 title: Resume
-description: Museum Semi-Professional
 permalink: /resume
 ---
 
