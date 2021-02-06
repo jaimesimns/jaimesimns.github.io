@@ -5,33 +5,33 @@ permalink: /resume
 
 # Education
 ### M.A. in Public History, Digital Humanities
-Carleton University, 2020-2022
+##### Carleton University, 2020-2022
 
 ### B.A. Hons. in Anthropology and Arts and Business
 Focus in Archaeology, Minor in Fine Arts/Art History
-University of Waterloo, 2015-2020
+##### University of Waterloo, 2015-2020
 
 
 # Professional Experience
 ### Interpreter, THEMUSEUM
 June 2014 - Present
-Waterloo, Ontario
+##### Waterloo, Ontario
 
 ### Assistant Curator, Earth Sciences Museum - Science Museum and Galleries
 April - October 2019
-Waterloo, Ontario
+##### Waterloo, Ontario
 
 ### Historical Interpreter, Waterloo Regional Museum/Doon Heritage Village
 August 2017 - February 2019
-Kitchener, Ontario
+##### Kitchener, Ontario
 
 ### Field Technician, Archaeological Services, Inc.
 April - August 2018
-Burlington, Ontario
+##### Burlington, Ontario
 
 ### Field/Lab Technician, Ahatsistari Field School - Wilfrid Laurier University
 April - July 2016, with continuing lab work from September 2016 - June 2017
-Penetanguishene, Ontario
+##### Penetanguishene, Ontario
 
 
 # Academic Experience
@@ -46,4 +46,4 @@ X-Lab, Dr. Shawn Graham
 
 ### History Graduate Student Association, Secretary-Treasurer
 September 2020 - Present
-Ottawa, Ontario
+##### Ottawa, Ontario
