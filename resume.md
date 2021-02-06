@@ -14,36 +14,36 @@ Focus in Archaeology, Minor in Fine Arts/Art History
 
 # Professional Experience
 ### Interpreter, THEMUSEUM
-June 2014 - Present
-##### Waterloo, Ontario
+* June 2014 - Present
+* Waterloo, Ontario
 
 ### Assistant Curator, Earth Sciences Museum - Science Museum and Galleries
-April - October 2019
-##### Waterloo, Ontario
+* April - October 2019
+* Waterloo, Ontario
 
 ### Historical Interpreter, Waterloo Regional Museum/Doon Heritage Village
-August 2017 - February 2019
-##### Kitchener, Ontario
+* August 2017 - February 2019
+* Kitchener, Ontario
 
 ### Field Technician, Archaeological Services, Inc.
-April - August 2018
-##### Burlington, Ontario
+* April - August 2018
+* Burlington, Ontario
 
 ### Field/Lab Technician, Ahatsistari Field School - Wilfrid Laurier University
-April - July 2016, with continuing lab work from September 2016 - June 2017
-##### Penetanguishene, Ontario
+* April - July 2016, with continuing lab work from September 2016 - June 2017
+* Penetanguishene, Ontario
 
 
 # Academic Experience
-### Research Assistantships
+### Research Assistantships - Carleton University
 X-Lab, Dr. Shawn Graham
 * NanoHistory, Fall 2020
 * Bone Trade, Winter 2020
 
-### Teaching Assistantships
+### Teaching Assistantships - Carleton University
 * Historian's Craft, Fall 2020
 * Aztecs, Winter 2020
 
 ### History Graduate Student Association, Secretary-Treasurer
-September 2020 - Present
-##### Ottawa, Ontario
+* September 2020 - Present
+* Ottawa, Ontario
