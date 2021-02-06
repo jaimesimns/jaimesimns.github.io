@@ -1,10 +1,8 @@
 author:
   # Used by `jekyll-feed`:
-  name:                Austin Huang
-  email:               im@austinhuang.me
+  name:                Jaime Simons
+  email:               jaimesimons@cmail.carleton.ca
   social:
-    email: mailto:im@austinhuang.me
-    github: austinhuang0131
-    matrix: '@austin:privacytools.io'
-    reddit: austinhuang
-    telegram: austinhuang
+    email: mailto:jaimesimons@cmail.carleton.ca
+    github: jaimesimns
+    twitter: @jaimesimns 
