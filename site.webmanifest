@@ -1,0 +1,54 @@
+{
+    "name": "",
+    "short_name": "",
+    "icons": [
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "36x36",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "48x48",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "72x72",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "96x96",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "144x144",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "192x192",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "256x256",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "384x384",
+            "type": "image/jpg"
+        },
+        {
+            "src": "https://pbs.twimg.com/profile_images/1252830019124002819/pWpAm9IG_400x400.jpg",
+            "sizes": "512x512",
+            "type": "image/jpg"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
