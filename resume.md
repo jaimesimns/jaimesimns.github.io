@@ -3,10 +3,7 @@ title: Resume
 permalink: /resume
 ---
 
-# Resume
-
-
-## Education
+# Education
 ### M.A. in Public History, Digital Humanities
 Carleton University, 2020-2022
 
@@ -15,33 +12,38 @@ Focus in Archaeology, Minor in Fine Arts/Art History
 University of Waterloo, 2015-2020
 
 
-## Professional Experience
-### THEMUSEUM, June 2014 - Present
+# Professional Experience
+### Interpreter, THEMUSEUM
+June 2014 - Present
 Waterloo, Ontario
 
-### Earth Sciences Museum, April - October 2019
+### Assistant Curator, Earth Sciences Museum - Science Museum and Galleries
+April - October 2019
 Waterloo, Ontario
 
-### Waterloo Regional Museum/Doon Heritage Village, August 2017 - February 2019
+### Historical Interpreter, Waterloo Regional Museum/Doon Heritage Village
+August 2017 - February 2019
 Kitchener, Ontario
 
-### Archaeological Services, Inc., April - August 2018
+### Field Technician, Archaeological Services, Inc.
+April - August 2018
 Burlington, Ontario
 
-## Academic Experience
-### Teaching Assistantship
-* Historian's Craft, Fall 2020
-* Aztecs, Winter 2020
+### Field/Lab Technician, Ahatsistari Field School - Wilfrid Laurier University
+April - July 2016, with continuing lab work from September 2016 - June 2017
+Penetanguishene, Ontario
 
-### Research Assistantship
+
+# Academic Experience
+### Research Assistantships
 X-Lab, Dr. Shawn Graham
 * NanoHistory, Fall 2020
 * Bone Trade, Winter 2020
 
-## Relevant Volunteer Experience
-### History Graduate Student Association, Secretary-Treasurer
-Ottawa, Ontario; September 2020 - Present
+### Teaching Assistantships
+* Historian's Craft, Fall 2020
+* Aztecs, Winter 2020
 
-### Field/Lab Technician, Ahatsistari Field School (WLU)
-Penetanguishene, Ontario; April - July 2016
-Continuing lab work, September 2016 - June 2017
+### History Graduate Student Association, Secretary-Treasurer
+September 2020 - Present
+Ottawa, Ontario
