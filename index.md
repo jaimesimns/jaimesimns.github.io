@@ -16,6 +16,8 @@ permalink: /
 }
 </style>
 
-I'm an M.A. Candidate in Public History and Digital Humanities at Carleton University. My current research focuses on steamboats on the Ottawa River, from 1830-1920, and their role in the industrialization of the Ottawa River and surrounding area. I aim to return this forgotten history into public memory through the use of aural augmented reality. I am also currently looking for a Summer internship, so if you like my work, please [contact me](/contactme)!
+I'm an M.A. student in Public History and Digital Humanities at Carleton University. 
 
-This is my personal website - click on the links to learn more about my [resume](/resume), my [projects](/projects), or to [get in touch](/contactme). 
+My current research focuses on the history of steamboats on the Ottawa River from 1830-1920 and their wider implications on the industrialization of the river and settler-colonialism in the Ottawa Valley. As part of this research, I will examine how sound can be used to reconstruct past landscapes and create affective sensorial history. 
+
+This is my personal website - click on the links to learn more about my [resume](/resume), my [projects](/projects), or to [contact me](/contactme). 
