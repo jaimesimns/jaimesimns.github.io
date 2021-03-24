@@ -29,4 +29,4 @@ Currently on display at the University of Waterloo at the Science & Teaching Com
 ### Program creation, script/tour creation
 
 ### Code
-[Youtube Embed Code without 'Play on Youtube' or 'Related Videos'](/
+[Youtube Embed Code without 'Play on Youtube' or 'Related Videos'](/youtube-code.md)
