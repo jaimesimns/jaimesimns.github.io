@@ -16,6 +16,8 @@ permalink: /projects
             * [FASS Newsletter](http://fass-carletonuniversity.createsend.com/t/ViewEmailArchive/j/D025A8F78EF366482540EF23F30FEDED/C67FD2F38AC4859C/)
             * [Carleton Website](https://carleton.ca/history/2021/four-history-ma-students-nominated-for-the-dh-awards/)
             * [Presentation at the 22nd Underhill Colloquium](https://sites.google.com/view/historydhroundtable)
+            * [Bytown Museum Facebook](https://www.facebook.com/bytown/posts/10164977456550346)
+            * [Internet Scout Archives](https://scout.wisc.edu/archives/r94515/shipwrecks_of_the_ottawa_river_and_rideau_canal)
 * Hearing Dura Europos, helped Dr. Graham
 
 #### Research Interests
