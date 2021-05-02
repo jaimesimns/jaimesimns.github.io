@@ -6,7 +6,7 @@ permalink: /projects
 ### Current
 * HIST 5705 project
 * M.A. Thesis
-* [Shipwrecks and Sessional Papers: Using the Parliamentary Sessional Papers to search for records of steamboat wrecks on the Ottawa River and Rideau Canal](https://arcg.is/01y5Te)
+
 
 ### Completed
 * [Archaeology and Virtual Reality: A Critical Appraisal of Google Expeditions](https://www.researchgate.net/publication/342409056_Archaeology_and_Virtual_Reality_A_Critical_Appraisal_of_Google_Expeditions): My undergraduate honours thesis
@@ -19,6 +19,7 @@ permalink: /projects
             * [Bytown Museum Facebook](https://www.facebook.com/bytown/posts/10164977456550346)
             * [Internet Scout Archives](https://scout.wisc.edu/archives/r94515/shipwrecks_of_the_ottawa_river_and_rideau_canal)
 * Hearing Dura Europos, helped Dr. Graham
+* [Shipwrecks and Sessional Papers: Using the Parliamentary Sessional Papers to search for records of steamboat wrecks on the Ottawa River and Rideau Canal](https://arcg.is/01y5Te)
 
 #### Research Interests
 Archaeology, public history, memory, environmental history, industrialization, augmented reality (aural), soundscapes, museums, interpretation, digital storytelling, and queer and trans history
