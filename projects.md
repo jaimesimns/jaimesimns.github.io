@@ -9,7 +9,7 @@ permalink: /projects
 
 ### Completed
 * [Archaeology and Virtual Reality: A Critical Appraisal of Google Expeditions](https://www.researchgate.net/publication/342409056_Archaeology_and_Virtual_Reality_A_Critical_Appraisal_of_Google_Expeditions): My undergraduate honours thesis
-
+     * presented at the 2021 [Ontario Archaeology Society conference](https://www.ontarioarchaeology.org/resources/Pictures/OAS%202021/programme2021-final.pdf) as part of Session 1: [Archaeological Knowledge Production in the Age of Zoom](https://www.ontarioarchaeology.org/2021-Age-of-Zoom)
 * [Shipwrecks of the Ottawa River and Rideau Canal](https://padlet.com/jaime6simons/fnkkvgdz99pr7l1e): A gazetteer of shipwrecks in the Ottawa River and Rideau Canal from 1835-1987.
       * Featured in:
             * [DHCU Irregular Newsletter](https://buttondown.email/dhcu/archive/bf70a82c-15d8-41ae-9cd4-e3d3e77496f8)
