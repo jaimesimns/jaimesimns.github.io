@@ -13,18 +13,12 @@ underhillcolloquium)
 * Trans Metadata Committee, Ethical Recommendations team
 * American Alliance of Museums, Trans Inclusion Taskforce member
 
-
 ### Published Papers
 * Graham, S, and Simons, J. 2021 Listening to Dura Europos: An Experiment in Archaeological Image Sonification, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.8.
-
-* Graham, S., Huffer, D., and Simons, J. Forthcoming.
-
+* Simons, J. 2021. Shipwrecks of the Ottawa River and Rideau Canal, _Historical Society of Ottawa_. https://www.historicalsocietyottawa.ca/publications/features/shipwrecks-of-the-ottawa-river-and-rideau-canal-1823-1949.
 * Huffer, D., Graham, S. Brughelmans, T., and Simons, J. Forthcoming.
-
-* Graham, S., Huffer, D., Simons, J., and ---, C. 
-
-* Simons, J. Shipwrecks of the Ottawa River and Rideau Canal, _Historical Society of Ottawa_, 2021. 
-
+* Graham, S., Huffer, D., and Simons, J. Forthcoming.
+* Graham, S., Huffer, D., Simons, J., and McKenney, C. Forthcoming.
 
 ### Completed
 * [Archaeology and Virtual Reality: A Critical Appraisal of Google Expeditions](https://www.researchgate.net/publication/342409056_Archaeology_and_Virtual_Reality_A_Critical_Appraisal_of_Google_Expeditions): My undergraduate honours thesis
@@ -44,7 +38,7 @@ underhillcolloquium)
 
 * [Crossing out Queers](https://sites.google.com/view/crossingoutqueers/home); A final project for HIST 5705, to discuss the history of the Purge in Canada.
 
-* [History and DH Roundtable](https://sites.google.com/view/historydhroundtable/home); a website for a roundtable discussion on our uses of Digital Humanities within our historical research, presented at the Carleton Underhill Graduate Colloquium
+* [History and DH Roundtable](https://sites.google.com/view/historydhroundtable/home); a website for a roundtable discussion on our uses of Digital Humanities within our historical research, presented at the 2021 Carleton Underhill Graduate Student Colloquium
 
 * [Jamming with our MRE/MRPs](https://sites.google.com/view/jamming-with-mres/home); a project created for the 2021 Heritage Jam at Carleton University
 
