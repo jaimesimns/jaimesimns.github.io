@@ -15,7 +15,7 @@ underhillcolloquium)
 
 
 ### Published Papers
-* Graham, S, and Simons, J. 2021 Listening to Dura Europos: An Experiment in Archaeological Image Sonification, Internet Archaeology 56. https://doi.org/10.11141/ia.56.8.
+* Graham, S, and Simons, J. 2021 Listening to Dura Europos: An Experiment in Archaeological Image Sonification, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.8.
 
 * Graham, S., Huffer, D., and Simons, J. Forthcoming.
 
@@ -23,7 +23,7 @@ underhillcolloquium)
 
 * Graham, S., Huffer, D., Simons, J., and ---, C. 
 
-* Simons, J. __
+* Simons, J. Shipwrecks of the Ottawa River and Rideau Canal, _Historical Society of Ottawa_, 2021. 
 
 
 ### Completed
@@ -38,6 +38,7 @@ underhillcolloquium)
             * [Presentation at the 22nd Underhill Colloquium](https://sites.google.com/view/historydhroundtable)
             * [Bytown Museum Facebook](https://www.facebook.com/bytown/posts/10164977456550346)
             * [Internet Scout Archives](https://scout.wisc.edu/archives/r94515/shipwrecks_of_the_ottawa_river_and_rideau_canal)
+      * Awarded the Colonel John By Award in History, by the [Historical Society of Ottawa](https://www.historicalsocietyottawa.ca/activities/sponsorship-and-awards): project available [here](https://www.historicalsocietyottawa.ca/publications/features/shipwrecks-of-the-ottawa-river-and-rideau-canal-1823-1949).
             
 * [Shipwrecks and Sessional Papers: Using the Parliamentary Sessional Papers to search for records of steamboat wrecks on the Ottawa River and Rideau Canal](https://arcg.is/01y5Te); A final project for HIST 5003, on using the Sessional Papers and New Mills List to find shipwreck information.
 
