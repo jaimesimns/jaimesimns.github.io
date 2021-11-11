@@ -8,8 +8,7 @@ permalink: /projects
     * featured in FASS' video series for the Department of History at Carleton - [Youtube](https://www.youtube.com/watch?v=Q38B5xnJ4zA), [FASS website](http://fass-carletonuniversity.createsend.com/t/ViewEmailArchive/j/BDCFA0939BCC7C982540EF23F30FEDED/C67FD2F38AC4859C/)
 * Ingenium, Garth Wilson Fellowship
     * using sound and Twine as a way to engage with the XL Artifacts collection 
-* 2022 Underhill Colloquium Co-Chair, [website](https://sites.google.com/view/
-underhillcolloquium)
+* 2022 Underhill Colloquium Co-Chair, [Underhill 2022 website](https://sites.google.com/view/underhillcolloquium)
 * Trans Metadata Committee, Ethical Recommendations team
 * American Alliance of Museums, Trans Inclusion Taskforce member
 
