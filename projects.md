@@ -15,9 +15,9 @@ permalink: /projects
 ### Published Papers
 * Graham, S, and Simons, J. 2021 Listening to Dura Europos: An Experiment in Archaeological Image Sonification, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.8.
 * Simons, J. 2021. Shipwrecks of the Ottawa River and Rideau Canal, _Historical Society of Ottawa_. https://www.historicalsocietyottawa.ca/publications/features/shipwrecks-of-the-ottawa-river-and-rideau-canal-1823-1949.
-* Huffer, D., Graham, S. Brughelmans, T., and Simons, J. Forthcoming.
+* Huffer, D., Graham, S. Brughelmans, T., and Simons, J. Praehistorica and Anthropologica, forthcoming.
 * Graham, S., Huffer, D., and Simons, J. Forthcoming.
-* Graham, S., Huffer, D., Simons, J., and McKenney, C. Forthcoming.
+* Mckenney, C., Simons, J., Lane, A., Huffer, D., and Graham, S. Forthcoming.
 
 ### Completed
 * [Archaeology and Virtual Reality: A Critical Appraisal of Google Expeditions](https://www.researchgate.net/publication/342409056_Archaeology_and_Virtual_Reality_A_Critical_Appraisal_of_Google_Expeditions): My undergraduate honours thesis
