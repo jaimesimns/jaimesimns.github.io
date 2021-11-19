@@ -44,7 +44,7 @@ Focus in Archaeology, Minor in Fine Arts/Art History
 
 # Academic Experience
 ### Research Assistantships - Carleton University
-X-Lab, Dr. Shawn Graham
+[X-Lab](https://carleton.ca/xlab/) Member, Dr. Shawn Graham
 * NanoHistory, Fall 2020
 * Bone Trade, Winter 2020
 * Bone Trade, Fall 2021
