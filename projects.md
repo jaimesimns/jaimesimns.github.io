@@ -11,6 +11,7 @@ permalink: /projects
 * 2022 Underhill Colloquium Co-Chair, [Underhill 2022 website](https://sites.google.com/view/underhillcolloquium)
 * Trans Metadata Committee, Ethical Recommendations team
 * American Alliance of Museums, Trans Inclusion Taskforce member
+* HIST 5706 Final Project: Ottawa Shipwreck Walk using Echoes.xyz
 
 ### Published Papers
 * Graham, S, and Simons, J. 2021 Listening to Dura Europos: An Experiment in Archaeological Image Sonification, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.8.
