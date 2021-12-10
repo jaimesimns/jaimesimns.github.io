@@ -5,7 +5,7 @@ permalink: /projects
 ## Academic Projects
 ### Ongoing Work
 * M.A. Major Research Project, supervised by Shawn Graham
-    * featured in FASS' video series for the Department of History at Carleton - [Youtube](https://www.youtube.com/watch?v=Q38B5xnJ4zA), [FASS website](http://fass-carletonuniversity.createsend.com/t/ViewEmailArchive/j/BDCFA0939BCC7C982540EF23F30FEDED/C67FD2F38AC4859C/)
+    * featured in FASS' video series for the Department of History at Carleton - [Youtube](https://www.youtube.com/watch?v=Q38B5xnJ4zA), [FASS website](http://fass-carletonuniversity.createsend.com/t/ViewEmailArchive/j/BDCFA0939BCC7C982540EF23F30FEDED/C67FD2F38AC4859C/), [History Department website](https://carleton.ca/history/graduate/graduate-students-life-in-history/).
 * Garth Wilson Fellowship 2021-2022, Ingenium
     * using sound and Twine as a way to engage with the XL Artifacts collection from the Museum of Science and Technology, under supervision by Emily Gann
 * 2022 Underhill Colloquium Co-Chair, [Underhill 2022 website](https://sites.google.com/view/underhillcolloquium)
