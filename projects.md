@@ -11,7 +11,6 @@ permalink: /projects
 * 2022 Underhill Colloquium Co-Chair, [Underhill 2022 website](https://sites.google.com/view/underhillcolloquium)
 * Trans Metadata Committee, Ethical Recommendations team
 * American Alliance of Museums, Trans Inclusion Taskforce member
-* HIST 5706 Final Project: [Shipwrecks of Ottawa](https://sites.google.com/view/shipwrecks-of-ottawa), a walking tour of shipwrecks and wrecksites within the Ottawa area.
 
 ### Published Papers
 * Graham, S, and Simons, J. 2021 Listening to Dura Europos: An Experiment in Archaeological Image Sonification, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.8.
@@ -42,7 +41,7 @@ permalink: /projects
 
 * [Jamming with our MRE/MRPs](https://sites.google.com/view/jamming-with-mres/home); a project created for the 2021 Heritage Jam at Carleton University
 
-* [Shipwrecks of Ottawa Walking Tour](https://sites.google.com/view/shipwrecks-of-ottawa/); a project created for HIST5706 using Google Sites and Echoes.xyz
+* [Shipwrecks of Ottawa Walking Tour](https://sites.google.com/view/shipwrecks-of-ottawa/); a walking tour of shipwrecks and wrecksites within the Ottawa area.
 
 #### Research Interests
 Archaeology, public history, memory, environmental history, maritime archaeology, industrialization, augmented reality (aural), soundscapes, museums, interpretation, digital storytelling, and queer and trans history
