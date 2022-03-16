@@ -42,7 +42,7 @@ permalink: /projects
 
 * [Jamming with our MRE/MRPs](https://sites.google.com/view/jamming-with-mres/home); a project created for the 2021 Heritage Jam at Carleton University
 
-
+* [Shipwrecks of Ottawa Walking Tour](https://sites.google.com/view/shipwrecks-of-ottawa/); a project created for HIST5706 using Google Sites and Echoes.xyz
 
 #### Research Interests
-Archaeology, public history, memory, environmental history, industrialization, augmented reality (aural), soundscapes, museums, interpretation, digital storytelling, and queer and trans history
+Archaeology, public history, memory, environmental history, maritime archaeology, industrialization, augmented reality (aural), soundscapes, museums, interpretation, digital storytelling, and queer and trans history
