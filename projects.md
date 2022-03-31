@@ -41,7 +41,9 @@ permalink: /projects
 
 * [Jamming with our MRE/MRPs](https://sites.google.com/view/jamming-with-mres/home); a project created for the 2021 Heritage Jam at Carleton University
 
-* [Shipwrecks of Ottawa Walking Tour](https://sites.google.com/view/shipwrecks-of-ottawa/); a walking tour of shipwrecks and wrecksites within the Ottawa area.
+* [Shipwrecks of Ottawa Walking Tour](https://sites.google.com/view/shipwrecks-of-ottawa/); a walking tour of shipwrecks and wrecksites within the Ottawa area
+
+* [Long Distance Quilting: Performing Chosen Fammily](https://sites.google.com/view/longdistancequilting/); a performance project about quilting chosen families
 
 #### Research Interests
 Archaeology, public history, memory, environmental history, maritime archaeology, industrialization, augmented reality (aural), soundscapes, museums, interpretation, digital storytelling, and queer and trans history
