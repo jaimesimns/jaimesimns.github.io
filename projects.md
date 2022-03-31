@@ -16,8 +16,8 @@ permalink: /projects
 * Graham, S, and Simons, J. 2021 Listening to Dura Europos: An Experiment in Archaeological Image Sonification, _Internet Archaeology_ 56. https://doi.org/10.11141/ia.56.8.
 * Simons, J. 2021. Shipwrecks of the Ottawa River and Rideau Canal, _The Historical Society of Ottawa_. https://www.historicalsocietyottawa.ca/publications/features/shipwrecks-of-the-ottawa-river-and-rideau-canal-1823-1949.
 * Huffer, D., Simons, J., Brughmans, T., and Graham, S. ‘Alleen voor studiedoeleinden’ (For study purposes only): The human remains trade on Marktplaats.nl. Anthropologica et Praehistorica, 131(2022): 37-53.
-* Graham, S., Huffer, D., and Simons, J. Forthcoming.
-* Mckenney, C., Simons, J., Lane, A., Huffer, D., and Graham, S. Forthcoming.
+* Graham, S., Huffer, D., and Simons, J. When TikTok Discovered the Human Remains Trade: A Case Study, Open Archaeology, (forthcoming)
+* McKenney, C., Simons, J., Lane, A., Graham, S., and Huffer, D. Digital Folklore and Memes of Archaeology: Tiktok, Instagram, and the Human Remains Trade, Routledge Handbook of Digital Archaeology, (forthcoming)
 
 ### Completed Projects
 * [Archaeology and Virtual Reality: A Critical Appraisal of Google Expeditions](https://www.researchgate.net/publication/342409056_Archaeology_and_Virtual_Reality_A_Critical_Appraisal_of_Google_Expeditions): My undergraduate honours thesis
