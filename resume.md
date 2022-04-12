@@ -26,7 +26,7 @@ permalink: /resume
   * Waterloo, Ontario
 
 * Assistant Curator, Earth Sciences Museum - Science Museum and Galleries
-  * April - October 2019
+  * April - September 2019
   * Waterloo, Ontario
 
 * Historical Interpreter, Waterloo Regional Museum/Doon Heritage Village
