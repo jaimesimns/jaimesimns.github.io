@@ -14,15 +14,15 @@ permalink: /resume
 
 # Professional Experience
 * Garth Wilson Fellow 2021-2022, Ingenium
-  * September 2021 - April 2022
+  * September 2021 - Present
   * Ottawa, Ontario
 
 * Student, Historical Photographs, Canadian Nuclear Safety Commission
-  * May - September 2021
+  * May - August 2021
   * Ottawa, Ontario
 
 * Interpreter, THEMUSEUM
-  * June 2014 - January 2021
+  * June 2014 - March 2020
   * Waterloo, Ontario
 
 * Assistant Curator, Earth Sciences Museum - Science Museum and Galleries
